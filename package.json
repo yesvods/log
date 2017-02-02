@@ -1,0 +1,22 @@
+{
+  "name": "log",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/yesvods/log.git"
+  },
+  "keywords": [
+    "log"
+  ],
+  "author": "Jogis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yesvods/log/issues"
+  },
+  "homepage": "https://github.com/yesvods/log#readme"
+}
